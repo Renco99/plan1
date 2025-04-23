@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicios Descripción</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <h1>Descripción de Ejercicios</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Ejercicio</th>
+                <th>Descripción</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Abdominal bicicleta</td>
+                <td>Acostado boca arriba, manos detrás de la cabeza, lleva alternativamente el codo derecho hacia la rodilla izquierda y viceversa, simulando un pedaleo en el aire.</td>
+            </tr>
+            <tr>
+                <td>Abdominal corto</td>
+                <td>Realiza un crunch corto enfocándote en levantar solo los hombros del suelo, activando la parte superior del abdomen.</td>
+            </tr>
+            <tr>
+                <td>Abdominal crossfit</td>
+                <td>Consiste en un movimiento completo de crunch donde las piernas se elevan mientras el torso se flexiona al mismo tiempo.</td>
+            </tr>
+            <tr>
+                <td>Abdominal cruzado</td>
+                <td>Variante del crunch donde se lleva el codo hacia la rodilla contraria, activando los oblicuos.</td>
+            </tr>
+            <tr>
+                <td>Abdominal elevación rodilla aplauso</td>
+                <td>Eleva las rodillas hacia el pecho y da una palmada debajo de ellas, fortaleciendo el abdomen inferior.</td>
+            </tr>
+            <tr>
+                <td>Abdominal inverso</td>
+                <td>Acostado boca arriba, eleva las piernas juntas hacia el techo y levanta ligeramente las caderas del suelo.</td>
+            </tr>
+            <tr>
+                <td>Abdominal isométrico</td>
+                <td>Mantén una posición estática (como la plancha) para activar el núcleo abdominal.</td>
+            </tr>
+            <tr>
+                <td>Abdominal opcional</td>
+                <td>Un ejercicio adaptado que puede ser una combinación de otros movimientos abdominales según tu nivel.</td>
+            </tr>
+            <tr>
+                <td>Abdominal rotación</td>
+                <td>Realiza movimientos de rotación del tronco para trabajar los oblicuos.</td>
+            </tr>
+            <tr>
+                <td>Abdominal serie</td>
+                <td>Conjunto de ejercicios abdominales combinados en una rutina continua.</td>
+            </tr>
+            <tr>
+                <td>Abdominal tijera</td>
+                <td>Acostado boca arriba, eleva las piernas alternadamente en un movimiento de tijera.</td>
+            </tr>
+            <tr>
+                <td>Abdominal</td>
+                <td>Ejercicio básico que consiste en flexionar el torso para trabajar el abdomen.</td>
+            </tr>
+            <tr>
+                <td>Atrás rodilla arriba</td>
+                <td>Desde una posición de zancada, lleva la rodilla trasera hacia el pecho en un movimiento explosivo.</td>
+            </tr>
+            <tr>
+                <td>Bajar a plancha</td>
+                <td>Desde una posición de pie, baja al suelo caminando con las manos hasta alcanzar la posición de plancha.</td>
+            </tr>
+            <tr>
+                <td>Bajar plancha pierna alterna</td>
+                <td>En posición de plancha, alterna llevando una pierna hacia el pecho mientras mantienes el cuerpo firme.</td>
+            </tr>
+            <tr>
+                <td>Bajar plancha variante</td>
+                <td>Variación del ejercicio de plancha con movimientos adicionales, como rotaciones o extensiones.</td>
+            </tr>
+            <tr>
+                <td>Bajar subir</td>
+                <td>Ejercicio que alterna movimientos de bajar al suelo y levantarse rápidamente, como en un burpee simplificado.</td>
+            </tr>
+            <tr>
+                <td>Banda isométrico</td>
+                <td>Usa una banda elástica para mantener una posición fija, activando los músculos de forma estática.</td>
+            </tr>
+            <tr>
+                <td>Bear crawl</td>
+                <td>Camina con manos y pies en el suelo, manteniendo las rodillas cerca del suelo y el core activado.</td>
+            </tr>
+            <tr>
+                <td>Bird dog</td>
+                <td>Desde posición de cuatro apoyos, extiende una pierna y el brazo contrario al mismo tiempo, trabajando el equilibrio y el core.</td>
+            </tr>
+            <tr>
+                <td>Brazo</td>
+                <td>Ejercicio enfocado en trabajar la fuerza de los brazos, como flexiones o fondos.</td>
+            </tr>
+            <tr>
+                <td>Brazos</td>
+                <td>Rutina que incluye ejercicios variados para fortalecer los brazos, como flexiones y levantamiento de peso corporal.</td>
+            </tr>
+            <tr>
+                <td>Brazos peso</td>
+                <td>Usa peso adicional o el peso corporal para realizar ejercicios de brazos, como curls o extensiones.</td>
+            </tr>
+            <tr>
+                <td>Burpee</td>
+                <td>Ejercicio de alta intensidad que combina sentadilla, flexión y salto vertical.</td>
+            </tr>
+            <tr>
+                <td>Burpee peso</td>
+                <td>Variante del burpee tradicional que incluye levantamiento de peso.</td>
+            </tr>
+            <tr>
+                <td>Cangrejo toque pies</td>
+                <td>Desde posición de "mesa invertida", eleva una pierna y toca el pie con la mano contraria, alternando lados.</td>
+            </tr>
+            <tr>
+                <td>Combinación 2+ Sentadilla</td>
+                <td>Ejercicio combinado que incluye sentadillas y otros movimientos, como saltos o zancadas.</td>
+            </tr>
+            <tr>
+                <td>Cruce skater</td>
+                <td>Saltos laterales imitando el movimiento de un patinador.</td>
+            </tr>
+            <tr>
+                <td>Dead bug</td>
+                <td>Acostado boca arriba, eleva brazos y piernas, extendiendo una pierna y el brazo contrario simultáneamente.</td>
+            </tr>
+            <tr>
+                <td>Desplazamiento lateral</td>
+                <td>Da pasos laterales amplios para trabajar los abductores y mejorar la estabilidad.</td>
+            </tr>
+            <!-- Continue adding the remaining exercises here -->
+        </tbody>
+    </table>
+</body>
+</html>
