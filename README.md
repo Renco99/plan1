@@ -1,6 +1,6 @@
 # Stack Vertical
 
-![Stack Vertical]([https://raw.githubusercontent.com/tu-usuario/tu-repositorio/rama/nombre-imagen.png](https://github.com/Renco99/plan1/blob/main/Captura%20de%20Pantalla%202025-04-24%20a%20la(s)%2011.43.38.png))
+![Stack Vertical](https://github.com/Renco99/plan1/blob/main/Captura%20de%20Pantalla%202025-04-24%20a%20la(s)%2011.43.38.png)
 
 ## Detalles de la Jugada
 
