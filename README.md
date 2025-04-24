@@ -1,5 +1,7 @@
 # Stack Vertical
 
+![Stack Vertical](https://raw.githubusercontent.com/tu-usuario/tu-repositorio/rama/nombre-imagen.png)
+
 ## Detalles de la Jugada
 
 - **Nombre de la Jugada:** Stack Vertical
